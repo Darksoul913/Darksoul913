@@ -2,8 +2,6 @@
 
 ### A seasoned Python developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Darksoul913&label=Profile views&color=0e75b6&style=flat" alt="Darksoul913" /> </p>
-
 - 🌱 I'm currently learning **Embable Framework **
 
 - 💬 Ask me about **Python and Gen AI development **
